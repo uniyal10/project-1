@@ -1,0 +1,6 @@
+Download Files to Your Computer In a Folder and Type Foolowing Commands on terminal of same folder
+
+1.npm install
+2.npm start
+
+this will open this app in your browser

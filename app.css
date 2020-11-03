@@ -1,0 +1,113 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: azure;
+}
+header {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+table {
+  width: 90%;
+  border: none;
+  background-color: gray;
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  margin: auto;
+}
+th {
+  padding: 20px;
+}
+td {
+  padding: 20px;
+}
+#btnDiv {
+  margin: 20px;
+  align-items: center;
+  text-align: center;
+}
+#btn {
+  padding: 10px 30px;
+  background-color: goldenrod;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  z-index: 1;
+}
+
+#refresh {
+  padding: 10px 30px;
+  position: absolute;
+  left: 50%;
+  bottom: 10%;
+  display: none;
+  background-color: goldenrod;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  z-index: 0;
+}
+#extra {
+  opacity: 0;
+}
+a {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 3px;
+  background-color: aqua;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* 
+header{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: aliceblue;
+  background-color: blue;
+  padding: 10px;
+ 
+}
+
+
+footer{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: aliceblue;
+  padding: 10px;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
+
+button{
+ background-color: transparent;
+  color: beige;
+  border: none;
+  font-weight: bold;
+}
+button:hover{
+  cursor: pointer;
+ outline: none;
+ background-color: rgb(98, 98, 250);
+}
+button:active{
+  outline: none;
+}
+button:visited{
+  outline: none;
+} */
